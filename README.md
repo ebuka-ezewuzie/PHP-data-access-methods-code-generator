@@ -8,3 +8,5 @@ HOW TO USE:
 2) Copy the script to a directory on your webserver. 
 
 3) Run the script on a browser as http://serverhost:port/anydirectory/test_codegen.php.   Note: replace 'serverhost', 'port' and 'anydirectory' with the appropriate values as it applies to your webserver and application directory
+
+4) Copy the auto generated PHP methods and functions code on the browser and use in your project
