@@ -7,4 +7,4 @@ HOW TO USE:
 
 2) Copy the script to a directory on your webserver. 
 
-3) Run the script on a browser as http://<server host>:<port>/test_codegen.php
+3) Run the script on a browser as http://serverhost:port/anydirectory/test_codegen.php.   Note: replace 'serverhost', 'port' and 'anydirectory' with the appropriate values as it applies to your webserver and application directory
